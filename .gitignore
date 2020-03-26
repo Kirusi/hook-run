@@ -1,2 +1,4 @@
 venv/
 hook-run.json
+dist/
+src/hook_run.egg-info/
